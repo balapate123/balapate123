@@ -38,6 +38,12 @@
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Plaid](https://img.shields.io/badge/Plaid-111111?style=for-the-badge&logo=plaid&logoColor=white)
 
+<p align="center">
+  <a href="https://muse.ai/s/try-induswealth-yn62xuxyxspixfu"><img src="https://img.shields.io/badge/Try_IndusWealth_Live_Demo-2E9EF7?style=for-the-badge&logo=rocket&logoColor=white" alt="Try IndusWealth live demo" /></a>
+</p>
+<p align="center"><i>👆 Go on, click it — a fully clickable dummy version with dashboard, debt simulator, subscription watchdog & more. No signup, just vibes.</i></p>
+
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -78,6 +84,14 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=balapate123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
 </div>
+
+## 🎲 Fun Corner
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev joke" />
+</p>
+
+<p align="center"><i>⚡ Powered by caffeine, curiosity, and an unreasonable number of terminal tabs.</i></p>
 
 ## 📫 Connect
 
